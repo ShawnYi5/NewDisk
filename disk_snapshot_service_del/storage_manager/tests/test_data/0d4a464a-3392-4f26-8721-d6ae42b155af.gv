@@ -1,0 +1,19 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+subgraph cluster_host17{
+        label = "host17"
+        node[shape=record]
+        Host_snapshot_46 [label="{<f0> host_snapshot_46|<f1> host_snapshot_ident_46|<f2> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Host_snapshot_46;
+}
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_61 [label="{<f0> storage_61|<f1> disk_snapshot_storage_ident_61|<f2> storage|<f3> /zz/s61|<f4> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Storage_62 [label="{<f0> storage_62|<f1> disk_snapshot_storage_ident_62|<f2> storage|<f3> /zz/s62|<f4> 2005-03-18 09:58:32.000000}" shape=Mrecord];
+Storage_61 -> Storage_62;}
+Locator_46 [label="<f0> L_46" shape=Mrecord];
+Locator_46 -> Host_snapshot_46;
+Locator_46 -> Storage_61;
+}

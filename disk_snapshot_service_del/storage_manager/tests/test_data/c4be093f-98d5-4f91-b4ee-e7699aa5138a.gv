@@ -1,0 +1,25 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+subgraph cluster_host33{
+        label = "host33"
+        node[shape=record]
+        Host_snapshot_87 [label="{<f0> host_snapshot_87|<f1> hosk_snapshot_ident_87|<f2> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Host_snapshot_88 [label="{<f0> host_snapshot_88|<f1> host_snapshot_ident_88|<f2> 2005-03-18 09:58:34.500000|<f3> 2005-03-18 09:58:36.500000}" shape=Mrecord];
+Host_snapshot_87->Host_snapshot_88;
+}
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_105 [label="{<f0> storage_105|<f1> host_snapshot_storage_ident_105|<f2> storage|<f3> /zz/s105|<f4> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Storage_106 [label="{<f0> storage_106|<f1> host_snapshot_storage_ident_106|<f2> storage|<f3> /zz/s105|<f4> 2005-03-18 09:58:32.000000}" shape=Mrecord];
+Storage_107 [label="{<f0> storage_107|<f1> host_snapshot_storage_ident_107|<f2> storage|<f3> /zz/s107|<f4> 2005-03-18 09:58:33.000000|<f5> 2005-03-18 09:58:34.000000}" shape=Mrecord];
+Storage_105 -> Storage_106;Storage_106 -> Storage_107;}
+Locator_88 [label="<f0> L_88" shape=Mrecord];
+Locator_87 [label="<f0> L_87" shape=Mrecord];
+Locator_88 -> Host_snapshot_88;
+Locator_87 -> Host_snapshot_87;
+Locator_87 -> Storage_105;
+Locator_88 -> Storage_106;
+Locator_88 -> Storage_107;
+}

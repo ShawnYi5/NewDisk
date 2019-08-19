@@ -1,0 +1,6196 @@
+[
+{
+  "model": "storage_manager.host",
+  "pk": 1,
+  "fields": {
+    "host_ident": "host_ident_1"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 2,
+  "fields": {
+    "host_ident": "host_ident_2"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 3,
+  "fields": {
+    "host_ident": "host_ident_3"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 4,
+  "fields": {
+    "host_ident": "host_ident_4"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 5,
+  "fields": {
+    "host_ident": "host_ident_5"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 6,
+  "fields": {
+    "host_ident": "host_ident_6"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 7,
+  "fields": {
+    "host_ident": "host_ident_7"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 8,
+  "fields": {
+    "host_ident": "host_ident_8"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 9,
+  "fields": {
+    "host_ident": "host_ident_9"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 10,
+  "fields": {
+    "host_ident": "host_ident_10"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 11,
+  "fields": {
+    "host_ident": "host_ident_11"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 12,
+  "fields": {
+    "host_ident": "host_ident_12"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 13,
+  "fields": {
+    "host_ident": "host_ident_13"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 14,
+  "fields": {
+    "host_ident": "host_ident_14"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 15,
+  "fields": {
+    "host_ident": "host_ident_15"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 16,
+  "fields": {
+    "host_ident": "host_ident_16"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 17,
+  "fields": {
+    "host_ident": "host_ident_17"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 18,
+  "fields": {
+    "host_ident": "host_ident_18"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 19,
+  "fields": {
+    "host_ident": "host_ident_19"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 20,
+  "fields": {
+    "host_ident": "host_ident_20"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 21,
+  "fields": {
+    "host_ident": "host_ident_21"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 22,
+  "fields": {
+    "host_ident": "host_ident_22"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 23,
+  "fields": {
+    "host_ident": "host_ident_23"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 24,
+  "fields": {
+    "host_ident": "host_ident_24"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 25,
+  "fields": {
+    "host_ident": "host_ident_25"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 26,
+  "fields": {
+    "host_ident": "host_ident_26"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 27,
+  "fields": {
+    "host_ident": "host_ident_27"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 28,
+  "fields": {
+    "host_ident": "host_ident_28"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 29,
+  "fields": {
+    "host_ident": "host_ident_29"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 30,
+  "fields": {
+    "host_ident": "host_ident_30"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 31,
+  "fields": {
+    "host_ident": "host_ident_31"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 32,
+  "fields": {
+    "host_ident": "host_ident_32"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 33,
+  "fields": {
+    "host_ident": "host_ident_33"
+  }
+},
+{
+  "model": "storage_manager.host",
+  "pk": 34,
+  "fields": {
+    "host_ident": "host_ident_34"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 1,
+  "fields": {
+    "host": 1,
+    "host_snapshot_ident": "host_snapshot_ident_1",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.111110",
+    "host_snapshot_end_timestamp": "1111111111.111110",
+    "host_snapshot_task_info": "host_snapshot_task_info_1"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 2,
+  "fields": {
+    "host": 1,
+    "host_snapshot_ident": "host_snapshot_ident_2",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111250.000000",
+    "host_snapshot_end_timestamp": "1111111250.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_2"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 3,
+  "fields": {
+    "host": 1,
+    "host_snapshot_ident": "host_snapshot_ident_3",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111400.000000",
+    "host_snapshot_end_timestamp": "1111111710.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_3"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 4,
+  "fields": {
+    "host": 2,
+    "host_snapshot_ident": "host_snapshot_ident_4",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_4"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 5,
+  "fields": {
+    "host": 2,
+    "host_snapshot_ident": "host_snapshot_ident_5",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_5"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 6,
+  "fields": {
+    "host": 3,
+    "host_snapshot_ident": "host_snapshot_ident_6",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111118.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_6"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 7,
+  "fields": {
+    "host": 3,
+    "host_snapshot_ident": "host_snapshot_ident_7",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111119.000000",
+    "host_snapshot_end_timestamp": "1111111119.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_7"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 8,
+  "fields": {
+    "host": 4,
+    "host_snapshot_ident": "host_snapshot_ident_8",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111120.000000",
+    "host_snapshot_end_timestamp": "1111111120.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_8"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 9,
+  "fields": {
+    "host": 4,
+    "host_snapshot_ident": "host_snapshot_ident_9",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111123.000000",
+    "host_snapshot_end_timestamp": "1111111123.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_9"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 10,
+  "fields": {
+    "host": 5,
+    "host_snapshot_ident": "host_snapshot_ident_10",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111126.000000",
+    "host_snapshot_end_timestamp": "1111111126.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_10"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 11,
+  "fields": {
+    "host": 5,
+    "host_snapshot_ident": "host_snapshot_ident_11",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111127.000000",
+    "host_snapshot_end_timestamp": "1111111127.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_11"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 12,
+  "fields": {
+    "host": 5,
+    "host_snapshot_ident": "host_snapshot_ident_12",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111128.000000",
+    "host_snapshot_end_timestamp": "1111111128.000000",
+    "host_snapshot_task_info": "disk_snapshot_task_info_12"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 13,
+  "fields": {
+    "host": 6,
+    "host_snapshot_ident": "host_snapshot_ident_13",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_13"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 14,
+  "fields": {
+    "host": 6,
+    "host_snapshot_ident": "host_snapshot_ident_14",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_14"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 15,
+  "fields": {
+    "host": 6,
+    "host_snapshot_ident": "host_snapshot_ident_15",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111120.000000",
+    "host_snapshot_end_timestamp": "1111111120.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_15"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 16,
+  "fields": {
+    "host": 7,
+    "host_snapshot_ident": "host_snapshot_ident_16",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_16"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 17,
+  "fields": {
+    "host": 7,
+    "host_snapshot_ident": "host_snapshot_ident_17",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_17"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 18,
+  "fields": {
+    "host": 7,
+    "host_snapshot_ident": "host_snapshot_ident_18",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_18"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 19,
+  "fields": {
+    "host": 8,
+    "host_snapshot_ident": "host_snapshot_ident_19",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_19"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 20,
+  "fields": {
+    "host": 8,
+    "host_snapshot_ident": "host_snapshot_ident_20",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_20"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 21,
+  "fields": {
+    "host": 8,
+    "host_snapshot_ident": "host_snapshot_ident_21",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111116.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_21"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 22,
+  "fields": {
+    "host": 9,
+    "host_snapshot_ident": "host_snapshot_ident_22",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_22"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 23,
+  "fields": {
+    "host": 9,
+    "host_snapshot_ident": "host_snapshot_ident_23",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_23"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 24,
+  "fields": {
+    "host": 9,
+    "host_snapshot_ident": "host_snapshot_ident_24",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_24"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 25,
+  "fields": {
+    "host": 10,
+    "host_snapshot_ident": "host_snapshot_ident_25",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_25"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 26,
+  "fields": {
+    "host": 10,
+    "host_snapshot_ident": "host_snapshot_ident_26",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_26"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 27,
+  "fields": {
+    "host": 10,
+    "host_snapshot_ident": "host_snapshot_ident_27",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_27"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 28,
+  "fields": {
+    "host": 10,
+    "host_snapshot_ident": "host_snapshot_ident_28",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_28"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 29,
+  "fields": {
+    "host": 10,
+    "host_snapshot_ident": "host_snapshot_ident_29",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_29"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 30,
+  "fields": {
+    "host": 11,
+    "host_snapshot_ident": "host_snapshot_ident_30",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_30"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 31,
+  "fields": {
+    "host": 11,
+    "host_snapshot_ident": "host_snapshot_ident_31",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_31"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 32,
+  "fields": {
+    "host": 11,
+    "host_snapshot_ident": "host_snapshot_ident_32",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_32"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 33,
+  "fields": {
+    "host": 12,
+    "host_snapshot_ident": "host_snapshot_ident_33",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_33"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 34,
+  "fields": {
+    "host": 12,
+    "host_snapshot_ident": "host_snapshot_ident_34",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_34"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 35,
+  "fields": {
+    "host": 12,
+    "host_snapshot_ident": "host_snapshot_ident_35",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_35"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 36,
+  "fields": {
+    "host": 13,
+    "host_snapshot_ident": "host_snapshot_ident_36",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_36"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 37,
+  "fields": {
+    "host": 13,
+    "host_snapshot_ident": "host_snapshot_ident_37",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_37"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 38,
+  "fields": {
+    "host": 13,
+    "host_snapshot_ident": "host_snapshot_ident_38",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_38"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 39,
+  "fields": {
+    "host": 14,
+    "host_snapshot_ident": "host_snapshot_ident_39",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_39"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 40,
+  "fields": {
+    "host": 14,
+    "host_snapshot_ident": "host_snapshot_ident_40",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_40"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 41,
+  "fields": {
+    "host": 14,
+    "host_snapshot_ident": "host_snapshot_ident_41",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_41"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 42,
+  "fields": {
+    "host": 15,
+    "host_snapshot_ident": "host_snapshot_ident_42",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_42"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 43,
+  "fields": {
+    "host": 15,
+    "host_snapshot_ident": "host_snapshot_ident_43",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111116.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_43"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 44,
+  "fields": {
+    "host": 16,
+    "host_snapshot_ident": "host_snapshot_ident_44",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_44"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 45,
+  "fields": {
+    "host": 16,
+    "host_snapshot_ident": "host_snapshot_ident_45",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_45"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 46,
+  "fields": {
+    "host": 17,
+    "host_snapshot_ident": "host_snapshot_ident_46",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_46"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 47,
+  "fields": {
+    "host": 18,
+    "host_snapshot_ident": "host_snapshot_ident_47",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_47"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 48,
+  "fields": {
+    "host": 18,
+    "host_snapshot_ident": "host_snapshot_ident_48",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_48"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 49,
+  "fields": {
+    "host": 18,
+    "host_snapshot_ident": "host_snapshot_ident_49",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_49"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 50,
+  "fields": {
+    "host": 18,
+    "host_snapshot_ident": "host_snapshot_ident_50",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111116.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_50"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 51,
+  "fields": {
+    "host": 19,
+    "host_snapshot_ident": "host_snapshot_ident_51",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_51"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 52,
+  "fields": {
+    "host": 19,
+    "host_snapshot_ident": "host_snapshot_ident_52",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_52"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 53,
+  "fields": {
+    "host": 19,
+    "host_snapshot_ident": "host_snapshot_ident_53",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_53"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 54,
+  "fields": {
+    "host": 20,
+    "host_snapshot_ident": "host_snapshot_ident_54",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_54"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 55,
+  "fields": {
+    "host": 20,
+    "host_snapshot_ident": "host_snapshot_ident_55",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_55"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 56,
+  "fields": {
+    "host": 20,
+    "host_snapshot_ident": "host_snapshot_ident_56",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111116.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_56"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 57,
+  "fields": {
+    "host": 20,
+    "host_snapshot_ident": "host_snapshot_ident_57",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111118.000000",
+    "host_snapshot_end_timestamp": "1111111118.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_57"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 58,
+  "fields": {
+    "host": 21,
+    "host_snapshot_ident": "host_snapshot_ident_58",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_58"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 59,
+  "fields": {
+    "host": 21,
+    "host_snapshot_ident": "host_snapshot_ident_59",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_59"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 60,
+  "fields": {
+    "host": 21,
+    "host_snapshot_ident": "host_snapshot_ident_60",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_60"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 61,
+  "fields": {
+    "host": 22,
+    "host_snapshot_ident": "host_snapshot_ident_61",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_61"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 62,
+  "fields": {
+    "host": 22,
+    "host_snapshot_ident": "host_snapshot_ident_62",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_62"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 63,
+  "fields": {
+    "host": 22,
+    "host_snapshot_ident": "host_snapshot_ident_63",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_63"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 64,
+  "fields": {
+    "host": 23,
+    "host_snapshot_ident": "host_snapshot_ident_64",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_64"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 65,
+  "fields": {
+    "host": 23,
+    "host_snapshot_ident": "host_snapshot_ident_65",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_65"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 66,
+  "fields": {
+    "host": 23,
+    "host_snapshot_ident": "host_snapshot_ident_66",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111116.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_66"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 67,
+  "fields": {
+    "host": 24,
+    "host_snapshot_ident": "host_snapshot_ident_67",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_67"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 68,
+  "fields": {
+    "host": 24,
+    "host_snapshot_ident": "host_snapshot_ident_68",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_68"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 69,
+  "fields": {
+    "host": 24,
+    "host_snapshot_ident": "host_snapshot_ident_69",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_69"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 70,
+  "fields": {
+    "host": 25,
+    "host_snapshot_ident": "host_snapshot_ident_70",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_70"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 71,
+  "fields": {
+    "host": 25,
+    "host_snapshot_ident": "host_snapshot_ident_71",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_71"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 72,
+  "fields": {
+    "host": 25,
+    "host_snapshot_ident": "host_snapshot_ident_72",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111115.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_72"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 73,
+  "fields": {
+    "host": 26,
+    "host_snapshot_ident": "host_snapshot_ident_73",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_73"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 74,
+  "fields": {
+    "host": 27,
+    "host_snapshot_ident": "host_snapshot_ident_74",
+    "host_snapshot_valid": false,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_74"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 75,
+  "fields": {
+    "host": 27,
+    "host_snapshot_ident": "host_snapshot_ident_75",
+    "host_snapshot_valid": false,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111112.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_75"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 76,
+  "fields": {
+    "host": 28,
+    "host_snapshot_ident": "host_snapshot_ident_76",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111113.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_76"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 77,
+  "fields": {
+    "host": 28,
+    "host_snapshot_ident": "host_snapshot_ident_77",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111115.000000",
+    "host_snapshot_end_timestamp": "1111111116.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_77"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 78,
+  "fields": {
+    "host": 29,
+    "host_snapshot_ident": "host_snapshot_ident_78",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_78"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 79,
+  "fields": {
+    "host": 29,
+    "host_snapshot_ident": "host_snapshot_ident_79",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111113.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_79"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 80,
+  "fields": {
+    "host": 30,
+    "host_snapshot_ident": "host_snapshot_ident_80",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_80"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 81,
+  "fields": {
+    "host": 30,
+    "host_snapshot_ident": "host_snapshot_ident_81",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111112.000000",
+    "host_snapshot_end_timestamp": "1111111114.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_81"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 82,
+  "fields": {
+    "host": 29,
+    "host_snapshot_ident": "host_snapshot_ident_82",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111114.000000",
+    "host_snapshot_end_timestamp": "1111111117.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_82"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 83,
+  "fields": {
+    "host": 31,
+    "host_snapshot_ident": "host_snapshot_ident_83",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_83"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 84,
+  "fields": {
+    "host": 31,
+    "host_snapshot_ident": "host_snapshot_ident_84",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111114.500000",
+    "host_snapshot_end_timestamp": "1111111116.500000",
+    "host_snapshot_task_info": "host_snapshot_task_info_84"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 85,
+  "fields": {
+    "host": 32,
+    "host_snapshot_ident": "host_snapshot_ident_85",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_85"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 86,
+  "fields": {
+    "host": 32,
+    "host_snapshot_ident": "host_snapshot_ident_86",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111114.500000",
+    "host_snapshot_end_timestamp": "1111111116.500000",
+    "host_snapshot_task_info": "host_snapshot_task_info_86"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 87,
+  "fields": {
+    "host": 33,
+    "host_snapshot_ident": "hosk_snapshot_ident_87",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_87"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 88,
+  "fields": {
+    "host": 33,
+    "host_snapshot_ident": "host_snapshot_ident_88",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111114.500000",
+    "host_snapshot_end_timestamp": "1111111116.500000",
+    "host_snapshot_task_info": "host_snapshot_task_info_88"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 89,
+  "fields": {
+    "host": 34,
+    "host_snapshot_ident": "host_snapshot_ident_89",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 1,
+    "host_snapshot_begin_timestamp": "1111111111.000000",
+    "host_snapshot_end_timestamp": "1111111111.000000",
+    "host_snapshot_task_info": "host_snapshot_task_info_89"
+  }
+},
+{
+  "model": "storage_manager.hostsnapshot",
+  "pk": 90,
+  "fields": {
+    "host": 34,
+    "host_snapshot_ident": "host_snapshot_ident_90",
+    "host_snapshot_valid": true,
+    "host_snapshot_type": 2,
+    "host_snapshot_begin_timestamp": "1111111114.500000",
+    "host_snapshot_end_timestamp": "1111111116.500000",
+    "host_snapshot_task_info": "host_snapshot_task_info_90"
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 1,
+  "fields": {
+    "host": 1,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_1",
+    "disk_display_name": "disk_display_name_1",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 2,
+  "fields": {
+    "host": 1,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_2",
+    "disk_display_name": "disk_display_name_2",
+    "disk_bytes": 2048,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 3,
+  "fields": {
+    "host": 2,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_3",
+    "disk_display_name": "disk_display_name_3",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 4,
+  "fields": {
+    "host": 6,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_4",
+    "disk_display_name": "disk_display_name_4",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 5,
+  "fields": {
+    "host": 6,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_5",
+    "disk_display_name": "disk_display_name_5",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 6,
+  "fields": {
+    "host": 7,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_6",
+    "disk_display_name": "disk_display_name_6",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 7,
+  "fields": {
+    "host": 8,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_7",
+    "disk_display_name": "disk_display_name_7",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 8,
+  "fields": {
+    "host": 9,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_8",
+    "disk_display_name": "disk_display_name_8",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 9,
+  "fields": {
+    "host": 10,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_9",
+    "disk_display_name": "disk_diskplay_name_9",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 10,
+  "fields": {
+    "host": 11,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_10",
+    "disk_display_name": "disk_diskplay_name_10",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 11,
+  "fields": {
+    "host": 12,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_11",
+    "disk_display_name": "disk_diskplay_name_11",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 12,
+  "fields": {
+    "host": 13,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_12",
+    "disk_display_name": "disk_diskplay_name_12",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 13,
+  "fields": {
+    "host": 14,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_13",
+    "disk_display_name": "disk_diskplay_name_13",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 14,
+  "fields": {
+    "host": 15,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_14",
+    "disk_display_name": "disk_diskplay_name_14",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 15,
+  "fields": {
+    "host": 16,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_15",
+    "disk_display_name": "disk_diskplay_name_15",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 16,
+  "fields": {
+    "host": 17,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_16",
+    "disk_display_name": "disk_diskplay_name_16",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 17,
+  "fields": {
+    "host": 18,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_17",
+    "disk_display_name": "disk_diskplay_name_17",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 18,
+  "fields": {
+    "host": 19,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_18",
+    "disk_display_name": "disk_diskplay_name_18",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 19,
+  "fields": {
+    "host": 20,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_19",
+    "disk_display_name": "disk_diskplay_name_19",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 20,
+  "fields": {
+    "host": 21,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_20",
+    "disk_display_name": "disk_diskplay_name_20",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 21,
+  "fields": {
+    "host": 22,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_21",
+    "disk_display_name": "disk_diskplay_name_21",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 22,
+  "fields": {
+    "host": 23,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_22",
+    "disk_display_name": "disk_diskplay_name_22",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 23,
+  "fields": {
+    "host": 24,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_23",
+    "disk_display_name": "disk_diskplay_name_23",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 24,
+  "fields": {
+    "host": 25,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_24",
+    "disk_display_name": "disk_diskplay_name_24",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 25,
+  "fields": {
+    "host": 25,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_25",
+    "disk_display_name": "disk_diskplay_name_25",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 26,
+  "fields": {
+    "host": 26,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_26",
+    "disk_display_name": "disk_diskplay_name_26",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 27,
+  "fields": {
+    "host": 27,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_27",
+    "disk_display_name": "disk_diskplay_name_27",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 28,
+  "fields": {
+    "host": 28,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_28",
+    "disk_display_name": "disk_diskpaly_name_28",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 29,
+  "fields": {
+    "host": 29,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_29",
+    "disk_display_name": "disk_diskplay_name_29",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 30,
+  "fields": {
+    "host": 30,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_30",
+    "disk_display_name": "disk_diskplay_name_30",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 31,
+  "fields": {
+    "host": 31,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_31",
+    "disk_display_name": "disk_diskplay_name_31",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 32,
+  "fields": {
+    "host": 32,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_32",
+    "disk_display_name": "disk_diskplay_name_32",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 33,
+  "fields": {
+    "host": 33,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_33",
+    "disk_display_name": "disk_diskplay_name_33",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.sourcedisk",
+  "pk": 34,
+  "fields": {
+    "host": 34,
+    "disk_native_guid": "disk_native_guid_1",
+    "agent_disk_ident": "agent_disk_ident_34",
+    "disk_display_name": "disk_diskplay_name_34",
+    "disk_bytes": 1024,
+    "boot_device": true,
+    "os_device": true,
+    "bmf_device": true,
+    "partition_type": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 1,
+  "fields": {
+    "locator_ident": "locator1"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 2,
+  "fields": {
+    "locator_ident": "locator2"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 3,
+  "fields": {
+    "locator_ident": "locator3"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 4,
+  "fields": {
+    "locator_ident": "locator4"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 5,
+  "fields": {
+    "locator_ident": "locator5"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 6,
+  "fields": {
+    "locator_ident": "locator6"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 7,
+  "fields": {
+    "locator_ident": "locator7"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 8,
+  "fields": {
+    "locator_ident": "locator8"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 9,
+  "fields": {
+    "locator_ident": "locator9"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 10,
+  "fields": {
+    "locator_ident": "locator10"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 11,
+  "fields": {
+    "locator_ident": "locator11"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 12,
+  "fields": {
+    "locator_ident": "locator12"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 13,
+  "fields": {
+    "locator_ident": "locator13"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 14,
+  "fields": {
+    "locator_ident": "locator14"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 15,
+  "fields": {
+    "locator_ident": "locator15"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 16,
+  "fields": {
+    "locator_ident": "locator16"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 17,
+  "fields": {
+    "locator_ident": "locator17"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 18,
+  "fields": {
+    "locator_ident": "locator18"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 19,
+  "fields": {
+    "locator_ident": "locator19"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 20,
+  "fields": {
+    "locator_ident": "locator20"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 21,
+  "fields": {
+    "locator_ident": "locator21"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 22,
+  "fields": {
+    "locator_ident": "locator22"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 23,
+  "fields": {
+    "locator_ident": "locator23"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 24,
+  "fields": {
+    "locator_ident": "locator24"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 25,
+  "fields": {
+    "locator_ident": "locator25"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 26,
+  "fields": {
+    "locator_ident": "locator26"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 27,
+  "fields": {
+    "locator_ident": "locator27"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 28,
+  "fields": {
+    "locator_ident": "locator28"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 29,
+  "fields": {
+    "locator_ident": "locator29"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 30,
+  "fields": {
+    "locator_ident": "locator30"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 31,
+  "fields": {
+    "locator_ident": "locator31"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 32,
+  "fields": {
+    "locator_ident": "locator32"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 33,
+  "fields": {
+    "locator_ident": "locator33"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 34,
+  "fields": {
+    "locator_ident": "locator34"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 35,
+  "fields": {
+    "locator_ident": "locator35"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 36,
+  "fields": {
+    "locator_ident": "locator36"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 37,
+  "fields": {
+    "locator_ident": "locator37"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 38,
+  "fields": {
+    "locator_ident": "locator38"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 39,
+  "fields": {
+    "locator_ident": "locator39"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 40,
+  "fields": {
+    "locator_ident": "locator40"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 41,
+  "fields": {
+    "locator_ident": "locator41"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 42,
+  "fields": {
+    "locator_ident": "locator42"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 43,
+  "fields": {
+    "locator_ident": "locator43"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 44,
+  "fields": {
+    "locator_ident": "locator44"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 45,
+  "fields": {
+    "locator_ident": "locator45"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 46,
+  "fields": {
+    "locator_ident": "locator46"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 47,
+  "fields": {
+    "locator_ident": "locator47"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 48,
+  "fields": {
+    "locator_ident": "locator48"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 49,
+  "fields": {
+    "locator_ident": "locator49"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 50,
+  "fields": {
+    "locator_ident": "locator50"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 51,
+  "fields": {
+    "locator_ident": "locator51"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 52,
+  "fields": {
+    "locator_ident": "locator52"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 53,
+  "fields": {
+    "locator_ident": "locator53"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 54,
+  "fields": {
+    "locator_ident": "locator54"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 55,
+  "fields": {
+    "locator_ident": "locator55"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 56,
+  "fields": {
+    "locator_ident": "locator56"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 57,
+  "fields": {
+    "locator_ident": "locator57"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 58,
+  "fields": {
+    "locator_ident": "locator58"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 59,
+  "fields": {
+    "locator_ident": "locator59"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 60,
+  "fields": {
+    "locator_ident": "locator60"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 61,
+  "fields": {
+    "locator_ident": "locator61"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 62,
+  "fields": {
+    "locator_ident": "locator62"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 63,
+  "fields": {
+    "locator_ident": "locator63"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 64,
+  "fields": {
+    "locator_ident": "locator64"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 65,
+  "fields": {
+    "locator_ident": "locator65"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 66,
+  "fields": {
+    "locator_ident": "locator66"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 67,
+  "fields": {
+    "locator_ident": "locator67"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 68,
+  "fields": {
+    "locator_ident": "locator68"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 69,
+  "fields": {
+    "locator_ident": "locator69"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 70,
+  "fields": {
+    "locator_ident": "locator70"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 71,
+  "fields": {
+    "locator_ident": "locator71"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 72,
+  "fields": {
+    "locator_ident": "locator72"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 73,
+  "fields": {
+    "locator_ident": "locator73"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 74,
+  "fields": {
+    "locator_ident": "locator74"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 76,
+  "fields": {
+    "locator_ident": "locator76"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 77,
+  "fields": {
+    "locator_ident": "locator77"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 78,
+  "fields": {
+    "locator_ident": "locator78"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 79,
+  "fields": {
+    "locator_ident": "locator79"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 80,
+  "fields": {
+    "locator_ident": "locator80"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 81,
+  "fields": {
+    "locator_ident": "locator81"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 82,
+  "fields": {
+    "locator_ident": "locator82"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 83,
+  "fields": {
+    "locator_ident": "locator83"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 84,
+  "fields": {
+    "locator_ident": "locator84"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 85,
+  "fields": {
+    "locator_ident": "locator85"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 86,
+  "fields": {
+    "locator_ident": "locator86"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 87,
+  "fields": {
+    "locator_ident": "locator87"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 88,
+  "fields": {
+    "locator_ident": "locator88"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 89,
+  "fields": {
+    "locator_ident": "locator89"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotlocator",
+  "pk": 90,
+  "fields": {
+    "locator_ident": "locator90"
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 1,
+  "fields": {
+    "root_uuid": "2715614d-48f0-4726-bb81-cc188e1b4850",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 2,
+  "fields": {
+    "root_uuid": "00000000-0000-0000-0000-000000000001",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 3,
+  "fields": {
+    "root_uuid": "56db2413-4ebc-45ce-86ea-d75c9fe53d95",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 4,
+  "fields": {
+    "root_uuid": "e89fbabc-e5da-47b2-8ba1-01752d0b5ab0",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 5,
+  "fields": {
+    "root_uuid": "57973432-2ea1-4ff3-a9df-cf6df9c4716c",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 6,
+  "fields": {
+    "root_uuid": "88bfefb1-fec0-4f7f-927e-e2dfd4750c4a",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 7,
+  "fields": {
+    "root_uuid": "e8fa9e52-06b9-4bcc-801e-ebcb045d2b7c",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 8,
+  "fields": {
+    "root_uuid": "0cde7303-87d9-4807-ad9b-b6b6e891240b",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 9,
+  "fields": {
+    "root_uuid": "6ee815bd-132e-4b52-b75b-3f94e4876487",
+    "hash_type": 2,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 10,
+  "fields": {
+    "root_uuid": "0526f1a2-ec5e-492b-b9cf-24266b005d95",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 11,
+  "fields": {
+    "root_uuid": "c503cbd3-bb9e-4978-9a8e-ecd82864e1a6",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 12,
+  "fields": {
+    "root_uuid": "c5592810-07f6-4828-bef1-9ddcf7c1c065",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 13,
+  "fields": {
+    "root_uuid": "2f0c53c1-9747-415c-bd00-faf5e0d2f2f7",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 14,
+  "fields": {
+    "root_uuid": "811b326d-c0df-450f-a1fd-80a671250bca",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 15,
+  "fields": {
+    "root_uuid": "780784b8-3542-47b4-995a-894b18f19ad4",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 16,
+  "fields": {
+    "root_uuid": "2088369f-992f-4fd9-b426-26f8679c8d85",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 17,
+  "fields": {
+    "root_uuid": "351e7ed9-1f5b-4d48-9660-c382ca5f2527",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 18,
+  "fields": {
+    "root_uuid": "539694ed-a9f7-4664-961c-a2ea808003de",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 19,
+  "fields": {
+    "root_uuid": "fc998016-5132-45a8-aeb7-d300e559725f",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 20,
+  "fields": {
+    "root_uuid": "e2abfe46-d44f-4d2e-9142-2e930101b684",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 21,
+  "fields": {
+    "root_uuid": "0d4a464a-3392-4f26-8721-d6ae42b155af",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 22,
+  "fields": {
+    "root_uuid": "0d5bccfc-2320-4df1-a912-910658624503",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 23,
+  "fields": {
+    "root_uuid": "9064db86-c2a8-4275-b480-3e1eabe9db51",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 24,
+  "fields": {
+    "root_uuid": "95faf4d7-de60-4423-9a69-903946367b13",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 25,
+  "fields": {
+    "root_uuid": "194fdccb-8f56-4271-b886-7eac383c75e3",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 26,
+  "fields": {
+    "root_uuid": "70ddbb96-ebcd-46fc-aafd-2db689205288",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 27,
+  "fields": {
+    "root_uuid": "87584789-9f4b-428a-8bb8-094dd74960f4",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 28,
+  "fields": {
+    "root_uuid": "f1089e3d-ef27-4194-a1ac-622e252d590f",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 29,
+  "fields": {
+    "root_uuid": "684cf170-342f-4504-bb14-c6e30f70646c",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 30,
+  "fields": {
+    "root_uuid": "e7514d9f-78f3-4a95-b98c-0d86346e01a9",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 31,
+  "fields": {
+    "root_uuid": "74d1e80d-c444-4547-9def-fd377941a1ee",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 32,
+  "fields": {
+    "root_uuid": "68dbc38e-ae7d-4fdd-ab06-be14d907ae96",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 33,
+  "fields": {
+    "root_uuid": "43f1bfef-f83f-495f-90ff-2373ed31c73f",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 34,
+  "fields": {
+    "root_uuid": "257f6dbf-0647-49dc-999b-63cc1b867049",
+    "hash_type": 2,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 35,
+  "fields": {
+    "root_uuid": "1aefb071-38b0-40bc-ad3c-c809891435c4",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 36,
+  "fields": {
+    "root_uuid": "c4be093f-98d5-4f91-b4ee-e7699aa5138a",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorageroot",
+  "pk": 37,
+  "fields": {
+    "root_uuid": "599c274b-d17d-4aae-82d8-55f28883ad74",
+    "hash_type": 1,
+    "root_valid": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 1,
+  "fields": {
+    "source_disk": 1,
+    "host_snapshot": 1,
+    "locator": 1,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 2,
+  "fields": {
+    "source_disk": 1,
+    "host_snapshot": 2,
+    "locator": 2,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 3,
+  "fields": {
+    "source_disk": 1,
+    "host_snapshot": 3,
+    "locator": 3,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 4,
+  "fields": {
+    "source_disk": 2,
+    "host_snapshot": 4,
+    "locator": 4,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 5,
+  "fields": {
+    "source_disk": 2,
+    "host_snapshot": 5,
+    "locator": 5,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 6,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 6,
+    "locator": 6,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 7,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 7,
+    "locator": 7,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 8,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 8,
+    "locator": 8,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 9,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 9,
+    "locator": 9,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 10,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 10,
+    "locator": 10,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 11,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 11,
+    "locator": 11,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 12,
+  "fields": {
+    "source_disk": 3,
+    "host_snapshot": 12,
+    "locator": 12,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 13,
+  "fields": {
+    "source_disk": 4,
+    "host_snapshot": 13,
+    "locator": 13,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 14,
+  "fields": {
+    "source_disk": 4,
+    "host_snapshot": 14,
+    "locator": 14,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 15,
+  "fields": {
+    "source_disk": 4,
+    "host_snapshot": 15,
+    "locator": 15,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 16,
+  "fields": {
+    "source_disk": 6,
+    "host_snapshot": 16,
+    "locator": 16,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 17,
+  "fields": {
+    "source_disk": 6,
+    "host_snapshot": 17,
+    "locator": 17,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 18,
+  "fields": {
+    "source_disk": 6,
+    "host_snapshot": 18,
+    "locator": 18,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 19,
+  "fields": {
+    "source_disk": 7,
+    "host_snapshot": 19,
+    "locator": 19,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 20,
+  "fields": {
+    "source_disk": 7,
+    "host_snapshot": 20,
+    "locator": 20,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 21,
+  "fields": {
+    "source_disk": 7,
+    "host_snapshot": 21,
+    "locator": 21,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 22,
+  "fields": {
+    "source_disk": 8,
+    "host_snapshot": 22,
+    "locator": 22,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 23,
+  "fields": {
+    "source_disk": 8,
+    "host_snapshot": 23,
+    "locator": 23,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 24,
+  "fields": {
+    "source_disk": 8,
+    "host_snapshot": 24,
+    "locator": 24,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 25,
+  "fields": {
+    "source_disk": 9,
+    "host_snapshot": 25,
+    "locator": 25,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 26,
+  "fields": {
+    "source_disk": 9,
+    "host_snapshot": 26,
+    "locator": 26,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 27,
+  "fields": {
+    "source_disk": 9,
+    "host_snapshot": 27,
+    "locator": 27,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 28,
+  "fields": {
+    "source_disk": 9,
+    "host_snapshot": 28,
+    "locator": 28,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 29,
+  "fields": {
+    "source_disk": 9,
+    "host_snapshot": 29,
+    "locator": 29,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 30,
+  "fields": {
+    "source_disk": 10,
+    "host_snapshot": 30,
+    "locator": 30,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 31,
+  "fields": {
+    "source_disk": 10,
+    "host_snapshot": 31,
+    "locator": 31,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 32,
+  "fields": {
+    "source_disk": 10,
+    "host_snapshot": 32,
+    "locator": 32,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 33,
+  "fields": {
+    "source_disk": 11,
+    "host_snapshot": 33,
+    "locator": 33,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 34,
+  "fields": {
+    "source_disk": 11,
+    "host_snapshot": 34,
+    "locator": 34,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 35,
+  "fields": {
+    "source_disk": 11,
+    "host_snapshot": 35,
+    "locator": 35,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 36,
+  "fields": {
+    "source_disk": 12,
+    "host_snapshot": 36,
+    "locator": 36,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 37,
+  "fields": {
+    "source_disk": 12,
+    "host_snapshot": 37,
+    "locator": 37,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 38,
+  "fields": {
+    "source_disk": 12,
+    "host_snapshot": 38,
+    "locator": 38,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 39,
+  "fields": {
+    "source_disk": 13,
+    "host_snapshot": 39,
+    "locator": 39,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 40,
+  "fields": {
+    "source_disk": 13,
+    "host_snapshot": 40,
+    "locator": 40,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 41,
+  "fields": {
+    "source_disk": 13,
+    "host_snapshot": 41,
+    "locator": 41,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 42,
+  "fields": {
+    "source_disk": 14,
+    "host_snapshot": 42,
+    "locator": 42,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 43,
+  "fields": {
+    "source_disk": 14,
+    "host_snapshot": 43,
+    "locator": 43,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 44,
+  "fields": {
+    "source_disk": 15,
+    "host_snapshot": 44,
+    "locator": 44,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 45,
+  "fields": {
+    "source_disk": 15,
+    "host_snapshot": 45,
+    "locator": 45,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 46,
+  "fields": {
+    "source_disk": 16,
+    "host_snapshot": 46,
+    "locator": 46,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 47,
+  "fields": {
+    "source_disk": 17,
+    "host_snapshot": 47,
+    "locator": 47,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 48,
+  "fields": {
+    "source_disk": 17,
+    "host_snapshot": 48,
+    "locator": 48,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 49,
+  "fields": {
+    "source_disk": 17,
+    "host_snapshot": 49,
+    "locator": 48,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 50,
+  "fields": {
+    "source_disk": 17,
+    "host_snapshot": 50,
+    "locator": 50,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 51,
+  "fields": {
+    "source_disk": 18,
+    "host_snapshot": 51,
+    "locator": 51,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 52,
+  "fields": {
+    "source_disk": 18,
+    "host_snapshot": 52,
+    "locator": 52,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 53,
+  "fields": {
+    "source_disk": 18,
+    "host_snapshot": 53,
+    "locator": 53,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 54,
+  "fields": {
+    "source_disk": 19,
+    "host_snapshot": 54,
+    "locator": 54,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 55,
+  "fields": {
+    "source_disk": 19,
+    "host_snapshot": 55,
+    "locator": 55,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 56,
+  "fields": {
+    "source_disk": 19,
+    "host_snapshot": 56,
+    "locator": 56,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 57,
+  "fields": {
+    "source_disk": 19,
+    "host_snapshot": 57,
+    "locator": 57,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 58,
+  "fields": {
+    "source_disk": 20,
+    "host_snapshot": 58,
+    "locator": 58,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 59,
+  "fields": {
+    "source_disk": 20,
+    "host_snapshot": 59,
+    "locator": 59,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 60,
+  "fields": {
+    "source_disk": 20,
+    "host_snapshot": 60,
+    "locator": 60,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 61,
+  "fields": {
+    "source_disk": 21,
+    "host_snapshot": 61,
+    "locator": 61,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 62,
+  "fields": {
+    "source_disk": 21,
+    "host_snapshot": 62,
+    "locator": 62,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 63,
+  "fields": {
+    "source_disk": 21,
+    "host_snapshot": 63,
+    "locator": 63,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 64,
+  "fields": {
+    "source_disk": 22,
+    "host_snapshot": 64,
+    "locator": 64,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 65,
+  "fields": {
+    "source_disk": 22,
+    "host_snapshot": 65,
+    "locator": 65,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 66,
+  "fields": {
+    "source_disk": 22,
+    "host_snapshot": 66,
+    "locator": 66,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 67,
+  "fields": {
+    "source_disk": 23,
+    "host_snapshot": 67,
+    "locator": 67,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 68,
+  "fields": {
+    "source_disk": 23,
+    "host_snapshot": 68,
+    "locator": 68,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 69,
+  "fields": {
+    "source_disk": 23,
+    "host_snapshot": 69,
+    "locator": 69,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 70,
+  "fields": {
+    "source_disk": 24,
+    "host_snapshot": 70,
+    "locator": 70,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 71,
+  "fields": {
+    "source_disk": 24,
+    "host_snapshot": 71,
+    "locator": 71,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 72,
+  "fields": {
+    "source_disk": 24,
+    "host_snapshot": 72,
+    "locator": 72,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 73,
+  "fields": {
+    "source_disk": 26,
+    "host_snapshot": 73,
+    "locator": 73,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 74,
+  "fields": {
+    "source_disk": 27,
+    "host_snapshot": 74,
+    "locator": 74,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 75,
+  "fields": {
+    "source_disk": 27,
+    "host_snapshot": 75,
+    "locator": 74,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 76,
+  "fields": {
+    "source_disk": 28,
+    "host_snapshot": 76,
+    "locator": 76,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 77,
+  "fields": {
+    "source_disk": 28,
+    "host_snapshot": 77,
+    "locator": 77,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 78,
+  "fields": {
+    "source_disk": 29,
+    "host_snapshot": 78,
+    "locator": 78,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 79,
+  "fields": {
+    "source_disk": 29,
+    "host_snapshot": 79,
+    "locator": 79,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 80,
+  "fields": {
+    "source_disk": 30,
+    "host_snapshot": 80,
+    "locator": 80,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 81,
+  "fields": {
+    "source_disk": 30,
+    "host_snapshot": 81,
+    "locator": 81,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 82,
+  "fields": {
+    "source_disk": 29,
+    "host_snapshot": 82,
+    "locator": 82,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 83,
+  "fields": {
+    "source_disk": 31,
+    "host_snapshot": 83,
+    "locator": 83,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 84,
+  "fields": {
+    "source_disk": 31,
+    "host_snapshot": 84,
+    "locator": 84,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 85,
+  "fields": {
+    "source_disk": 32,
+    "host_snapshot": 85,
+    "locator": 85,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 86,
+  "fields": {
+    "source_disk": 32,
+    "host_snapshot": 86,
+    "locator": 86,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 87,
+  "fields": {
+    "source_disk": 33,
+    "host_snapshot": 87,
+    "locator": 87,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 88,
+  "fields": {
+    "source_disk": 33,
+    "host_snapshot": 88,
+    "locator": 88,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 89,
+  "fields": {
+    "source_disk": 34,
+    "host_snapshot": 89,
+    "locator": 89,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshot",
+  "pk": 90,
+  "fields": {
+    "source_disk": 34,
+    "host_snapshot": 90,
+    "locator": 90,
+    "disk_index": 1
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 1,
+  "fields": {
+    "storage_root": 2,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_1",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy2",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 2,
+  "fields": {
+    "storage_root": 2,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_2",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy2",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 3,
+  "fields": {
+    "storage_root": 2,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_3",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy3",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 4,
+  "fields": {
+    "storage_root": 2,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_4",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy5",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 5,
+  "fields": {
+    "storage_root": 4,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_5",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy3",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111120",
+    "storage_end_timestamp": "1111111111.111120",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 6,
+  "fields": {
+    "storage_root": 4,
+    "source_disk": 1,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_6",
+    "disk_bytes": 1024,
+    "image_path": "/xx/yy5",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 7,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 1,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_7",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s7",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.111110",
+    "storage_end_timestamp": "1111111111.111110",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 8,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 2,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_8",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s8",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111200.000000",
+    "storage_end_timestamp": "1111111300.000000",
+    "parent_snapshot": 7,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 9,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 3,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_9",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s9",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111400.000000",
+    "storage_end_timestamp": "1111111400.000000",
+    "parent_snapshot": 8,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 10,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 3,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_10",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s10",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111400.000000",
+    "storage_end_timestamp": "1111111500.000000",
+    "parent_snapshot": 9,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 11,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 3,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_11",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s11",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111500.000000",
+    "storage_end_timestamp": "1111111600.000000",
+    "parent_snapshot": 10,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 12,
+  "fields": {
+    "storage_root": 5,
+    "source_disk": 2,
+    "locator": 3,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_12",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s12",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111650.000000",
+    "storage_end_timestamp": "1111111700.000000",
+    "parent_snapshot": 11,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 13,
+  "fields": {
+    "storage_root": 3,
+    "source_disk": 2,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 7,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_13",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s13",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 14,
+  "fields": {
+    "storage_root": 3,
+    "source_disk": 2,
+    "locator": null,
+    "storage_type": 1,
+    "storage_status": 7,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_idenr_14",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s14",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111120.000000",
+    "storage_end_timestamp": "1111111130.000000",
+    "parent_snapshot": 13,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 15,
+  "fields": {
+    "storage_root": 6,
+    "source_disk": 2,
+    "locator": 4,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_15",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s15",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 16,
+  "fields": {
+    "storage_root": 6,
+    "source_disk": 2,
+    "locator": 5,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_16",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s16",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 15,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 17,
+  "fields": {
+    "storage_root": 6,
+    "source_disk": 2,
+    "locator": 5,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_17",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s17",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 15,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 18,
+  "fields": {
+    "storage_root": 7,
+    "source_disk": 2,
+    "locator": 6,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_18",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s18",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 19,
+  "fields": {
+    "storage_root": 7,
+    "source_disk": 2,
+    "locator": 6,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_19",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s19",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111117.000000",
+    "parent_snapshot": 18,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 20,
+  "fields": {
+    "storage_root": 7,
+    "source_disk": 2,
+    "locator": 6,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_20",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s20",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111118.000000",
+    "storage_end_timestamp": "1111111118.000000",
+    "parent_snapshot": 19,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 21,
+  "fields": {
+    "storage_root": 7,
+    "source_disk": 2,
+    "locator": 7,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_21",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s21",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111119.000000",
+    "storage_end_timestamp": "1111111119.000000",
+    "parent_snapshot": 20,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 22,
+  "fields": {
+    "storage_root": 8,
+    "source_disk": 2,
+    "locator": 8,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_22",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s22",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111120.000000",
+    "storage_end_timestamp": "1111111120.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 23,
+  "fields": {
+    "storage_root": 8,
+    "source_disk": 2,
+    "locator": 9,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_23",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s23",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111121.000000",
+    "storage_end_timestamp": "1111111125.000000",
+    "parent_snapshot": 22,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 24,
+  "fields": {
+    "storage_root": 9,
+    "source_disk": 2,
+    "locator": 10,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_24",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s24",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111126.000000",
+    "storage_end_timestamp": "1111111126.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 25,
+  "fields": {
+    "storage_root": 9,
+    "source_disk": 2,
+    "locator": 11,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_25",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s25",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111127.000000",
+    "storage_end_timestamp": "1111111127.000000",
+    "parent_snapshot": 24,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 26,
+  "fields": {
+    "storage_root": 9,
+    "source_disk": 2,
+    "locator": 12,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_26",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s26",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111128.000000",
+    "storage_end_timestamp": "1111111128.000000",
+    "parent_snapshot": 25,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 27,
+  "fields": {
+    "storage_root": 10,
+    "source_disk": 4,
+    "locator": 13,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_27",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s27",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 28,
+  "fields": {
+    "storage_root": 10,
+    "source_disk": 4,
+    "locator": 14,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_28",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s28",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": 27,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 29,
+  "fields": {
+    "storage_root": 10,
+    "source_disk": 4,
+    "locator": 15,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_29",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s29",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111120.000000",
+    "storage_end_timestamp": "1111111120.000000",
+    "parent_snapshot": 28,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 30,
+  "fields": {
+    "storage_root": 11,
+    "source_disk": 6,
+    "locator": 16,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_30",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s30",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 31,
+  "fields": {
+    "storage_root": 11,
+    "source_disk": 6,
+    "locator": 17,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_31",
+    "disk_bytes": 1025,
+    "image_path": "/zz/s31",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 30,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 32,
+  "fields": {
+    "storage_root": 11,
+    "source_disk": 6,
+    "locator": 18,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_32",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s32",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 31,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 33,
+  "fields": {
+    "storage_root": 12,
+    "source_disk": 7,
+    "locator": 19,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_33",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s33",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 34,
+  "fields": {
+    "storage_root": 12,
+    "source_disk": 7,
+    "locator": 20,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_34",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s34",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 33,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": true
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 35,
+  "fields": {
+    "storage_root": 12,
+    "source_disk": 7,
+    "locator": 20,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_35",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s35",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": 34,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 36,
+  "fields": {
+    "storage_root": 12,
+    "source_disk": 7,
+    "locator": 21,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_36",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s36",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 35,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 37,
+  "fields": {
+    "storage_root": 13,
+    "source_disk": 8,
+    "locator": 22,
+    "storage_type": 2,
+    "storage_status": 2,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_37",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s37",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 38,
+  "fields": {
+    "storage_root": 13,
+    "source_disk": 8,
+    "locator": 23,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_38",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s38",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 37,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 39,
+  "fields": {
+    "storage_root": 13,
+    "source_disk": 8,
+    "locator": 24,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_39",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s39",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 38,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 40,
+  "fields": {
+    "storage_root": 14,
+    "source_disk": 9,
+    "locator": 25,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_40",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s40",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 41,
+  "fields": {
+    "storage_root": 14,
+    "source_disk": 9,
+    "locator": 26,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_41",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s40",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 40,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 42,
+  "fields": {
+    "storage_root": 14,
+    "source_disk": 9,
+    "locator": 27,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_42",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s42",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 41,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 43,
+  "fields": {
+    "storage_root": 14,
+    "source_disk": 9,
+    "locator": 28,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_43",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s42",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 42,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 44,
+  "fields": {
+    "storage_root": 14,
+    "source_disk": 9,
+    "locator": 29,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_44",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s44",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 42,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 45,
+  "fields": {
+    "storage_root": 15,
+    "source_disk": 10,
+    "locator": 30,
+    "storage_type": 2,
+    "storage_status": 3,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_45",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s45",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 46,
+  "fields": {
+    "storage_root": 15,
+    "source_disk": 10,
+    "locator": 31,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_46",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s46",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 45,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 47,
+  "fields": {
+    "storage_root": 15,
+    "source_disk": 10,
+    "locator": 32,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_47",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s47",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 46,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 48,
+  "fields": {
+    "storage_root": 16,
+    "source_disk": 11,
+    "locator": 33,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_48",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s48",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 49,
+  "fields": {
+    "storage_root": 16,
+    "source_disk": 11,
+    "locator": 34,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_49",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s49",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 48,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 50,
+  "fields": {
+    "storage_root": 16,
+    "source_disk": 11,
+    "locator": 35,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_50",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s50",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 49,
+    "parent_timestamp": "1111111113.000000",
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 51,
+  "fields": {
+    "storage_root": 17,
+    "source_disk": 12,
+    "locator": 36,
+    "storage_type": 2,
+    "storage_status": 6,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_51",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s51",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 52,
+  "fields": {
+    "storage_root": 17,
+    "source_disk": 12,
+    "locator": 37,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_52",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s52",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 51,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 53,
+  "fields": {
+    "storage_root": 17,
+    "source_disk": 12,
+    "locator": 38,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_53",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s53",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 52,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 54,
+  "fields": {
+    "storage_root": 18,
+    "source_disk": 13,
+    "locator": 39,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_54",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s54",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 55,
+  "fields": {
+    "storage_root": 18,
+    "source_disk": 13,
+    "locator": 40,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_55",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s55",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 54,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 56,
+  "fields": {
+    "storage_root": 18,
+    "source_disk": 13,
+    "locator": 41,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_56",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s56",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 55,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 57,
+  "fields": {
+    "storage_root": 19,
+    "source_disk": 14,
+    "locator": 42,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_57",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s57",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 58,
+  "fields": {
+    "storage_root": 19,
+    "source_disk": 14,
+    "locator": 43,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_58",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s58",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 57,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 59,
+  "fields": {
+    "storage_root": 20,
+    "source_disk": 15,
+    "locator": 44,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_59",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s59",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 60,
+  "fields": {
+    "storage_root": 20,
+    "source_disk": 15,
+    "locator": 45,
+    "storage_type": 2,
+    "storage_status": 2,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_60",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s60",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 59,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 61,
+  "fields": {
+    "storage_root": 21,
+    "source_disk": 16,
+    "locator": 46,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_61",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s61",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 62,
+  "fields": {
+    "storage_root": 21,
+    "source_disk": 16,
+    "locator": null,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_62",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s62",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 61,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 63,
+  "fields": {
+    "storage_root": 22,
+    "source_disk": 17,
+    "locator": 47,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_63",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s63",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 64,
+  "fields": {
+    "storage_root": 22,
+    "source_disk": 17,
+    "locator": 48,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_64",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s64",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 63,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 65,
+  "fields": {
+    "storage_root": 22,
+    "source_disk": 17,
+    "locator": 48,
+    "storage_type": 1,
+    "storage_status": 3,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_65",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s65",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": 64,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 66,
+  "fields": {
+    "storage_root": 22,
+    "source_disk": 17,
+    "locator": 50,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_66",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s66",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 65,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 67,
+  "fields": {
+    "storage_root": 23,
+    "source_disk": 18,
+    "locator": 51,
+    "storage_type": 2,
+    "storage_status": 2,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_67",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s67",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 68,
+  "fields": {
+    "storage_root": 23,
+    "source_disk": 18,
+    "locator": 52,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_68",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s68",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 67,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 69,
+  "fields": {
+    "storage_root": 23,
+    "source_disk": 18,
+    "locator": 53,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_69",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s69",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 68,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 70,
+  "fields": {
+    "storage_root": 24,
+    "source_disk": 19,
+    "locator": 54,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_70",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s70",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 71,
+  "fields": {
+    "storage_root": 24,
+    "source_disk": 19,
+    "locator": 55,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_71",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s71",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 70,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 72,
+  "fields": {
+    "storage_root": 24,
+    "source_disk": 19,
+    "locator": 56,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_72",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s72",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111117.000000",
+    "parent_snapshot": 71,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 73,
+  "fields": {
+    "storage_root": 24,
+    "source_disk": 19,
+    "locator": 57,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_73",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s73",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111118.000000",
+    "storage_end_timestamp": "1111111118.000000",
+    "parent_snapshot": 72,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 74,
+  "fields": {
+    "storage_root": 25,
+    "source_disk": 20,
+    "locator": 58,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_74",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s74",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 75,
+  "fields": {
+    "storage_root": 25,
+    "source_disk": 20,
+    "locator": 59,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_75",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s75",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 74,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 76,
+  "fields": {
+    "storage_root": 25,
+    "source_disk": 20,
+    "locator": 60,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_76",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s76",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 75,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 77,
+  "fields": {
+    "storage_root": 26,
+    "source_disk": 21,
+    "locator": 61,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_77",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s77",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 78,
+  "fields": {
+    "storage_root": 26,
+    "source_disk": 21,
+    "locator": 62,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_78",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s78",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 77,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 79,
+  "fields": {
+    "storage_root": 26,
+    "source_disk": 21,
+    "locator": 63,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_79",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s79",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 78,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 80,
+  "fields": {
+    "storage_root": 27,
+    "source_disk": 22,
+    "locator": 64,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_80",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s80",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 81,
+  "fields": {
+    "storage_root": 27,
+    "source_disk": 22,
+    "locator": 65,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_81",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s80",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": 80,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 82,
+  "fields": {
+    "storage_root": 27,
+    "source_disk": 22,
+    "locator": 66,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_82",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s82",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 81,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 83,
+  "fields": {
+    "storage_root": 28,
+    "source_disk": 23,
+    "locator": 67,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_83",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s83",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 84,
+  "fields": {
+    "storage_root": 28,
+    "source_disk": 23,
+    "locator": 68,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "disk_snapshot_storage_ident_84",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s84",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 83,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 85,
+  "fields": {
+    "storage_root": 28,
+    "source_disk": 23,
+    "locator": 69,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_85",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s84",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 84,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 86,
+  "fields": {
+    "storage_root": 29,
+    "source_disk": 26,
+    "locator": 73,
+    "storage_type": 2,
+    "storage_status": 7,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_86",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s86",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 87,
+  "fields": {
+    "storage_root": 30,
+    "source_disk": 27,
+    "locator": 74,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_87",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s87",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 88,
+  "fields": {
+    "storage_root": 30,
+    "source_disk": 27,
+    "locator": 74,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_88",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s88",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 87,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 89,
+  "fields": {
+    "storage_root": 31,
+    "source_disk": 27,
+    "locator": 76,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_89",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s89",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 90,
+  "fields": {
+    "storage_root": 31,
+    "source_disk": 27,
+    "locator": 77,
+    "storage_type": 1,
+    "storage_status": 7,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_90",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s90",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 89,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 91,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 78,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_91",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s91",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 92,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 79,
+    "storage_type": 1,
+    "storage_status": 1,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_92",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s92",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 91,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 93,
+  "fields": {
+    "storage_root": 33,
+    "source_disk": 30,
+    "locator": 80,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_93",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s93",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 94,
+  "fields": {
+    "storage_root": 33,
+    "source_disk": 30,
+    "locator": 81,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_94",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s94",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 93,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 95,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 82,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_95",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s95",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111114.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 92,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 96,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 82,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_96",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s95",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111115.000000",
+    "storage_end_timestamp": "1111111115.000000",
+    "parent_snapshot": 95,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 97,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 82,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_97",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s97",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111116.000000",
+    "storage_end_timestamp": "1111111116.000000",
+    "parent_snapshot": 96,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 98,
+  "fields": {
+    "storage_root": 32,
+    "source_disk": 29,
+    "locator": 82,
+    "storage_type": 2,
+    "storage_status": 1,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_98",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s98",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111117.000000",
+    "storage_end_timestamp": "1111111117.000000",
+    "parent_snapshot": 97,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 99,
+  "fields": {
+    "storage_root": 34,
+    "source_disk": 31,
+    "locator": 83,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_99",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s99",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 100,
+  "fields": {
+    "storage_root": 34,
+    "source_disk": 31,
+    "locator": 84,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_100",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s100",
+    "full_hash_path": null,
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 99,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 101,
+  "fields": {
+    "storage_root": 34,
+    "source_disk": 31,
+    "locator": 84,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_101",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s101",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111113.000000",
+    "parent_snapshot": 100,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 102,
+  "fields": {
+    "storage_root": 35,
+    "source_disk": 32,
+    "locator": 85,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_102",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s102",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 103,
+  "fields": {
+    "storage_root": 35,
+    "source_disk": 32,
+    "locator": 86,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_103",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s103",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.500000",
+    "parent_snapshot": 102,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 104,
+  "fields": {
+    "storage_root": 35,
+    "source_disk": 32,
+    "locator": 86,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_104",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s104",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 103,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 105,
+  "fields": {
+    "storage_root": 36,
+    "source_disk": 33,
+    "locator": 87,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_105",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s105",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 106,
+  "fields": {
+    "storage_root": 36,
+    "source_disk": 33,
+    "locator": 88,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_106",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s105",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 105,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 107,
+  "fields": {
+    "storage_root": 36,
+    "source_disk": 33,
+    "locator": 88,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_107",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s107",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 106,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 108,
+  "fields": {
+    "storage_root": 37,
+    "source_disk": 34,
+    "locator": 89,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_108",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s108",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111111.000000",
+    "storage_end_timestamp": "1111111111.000000",
+    "parent_snapshot": null,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 109,
+  "fields": {
+    "storage_root": 37,
+    "source_disk": 34,
+    "locator": 90,
+    "storage_type": 2,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_109",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s109",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111112.000000",
+    "storage_end_timestamp": "1111111112.000000",
+    "parent_snapshot": 108,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+},
+{
+  "model": "storage_manager.disksnapshotstorage",
+  "pk": 110,
+  "fields": {
+    "storage_root": 37,
+    "source_disk": 34,
+    "locator": 90,
+    "storage_type": 1,
+    "storage_status": 4,
+    "disk_snapshot_storage_ident": "host_snapshot_storage_ident_110",
+    "disk_bytes": 1024,
+    "image_path": "/zz/s110",
+    "full_hash_path": "*****",
+    "inc_hash_path": "*****",
+    "storage_begin_timestamp": "1111111113.000000",
+    "storage_end_timestamp": "1111111114.000000",
+    "parent_snapshot": 109,
+    "parent_timestamp": null,
+    "inc_raw_data_bytes": -1,
+    "file_level_deduplication": false
+  }
+}
+]

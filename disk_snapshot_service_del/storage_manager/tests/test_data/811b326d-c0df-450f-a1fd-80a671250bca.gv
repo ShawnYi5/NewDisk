@@ -1,0 +1,38 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+subgraph cluster_host10{
+        label = "host10"
+        node[shape=record]
+        Host_snapshot_25 [label="{<f0> host_snapshot_25|<f1> host_snapshot_ident_25|<f2> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Host_snapshot_26 [label="{<f0> host_snapshot_26|<f1> host_snapshot_ident_26|<f2> 2005-03-18 09:58:32.000000}" shape=Mrecord];
+Host_snapshot_27 [label="{<f0> host_snapshot_27|<f1> host_snapshot_ident_27|<f2> 2005-03-18 09:58:33.000000}" shape=Mrecord];
+Host_snapshot_28 [label="{<f0> host_snapshot_28|<f1> host_snapshot_ident_28|<f2> 2005-03-18 09:58:34.000000}" shape=Mrecord];
+Host_snapshot_29 [label="{<f0> host_snapshot_29|<f1> host_snapshot_ident_29|<f2> 2005-03-18 09:58:35.000000}" shape=Mrecord];
+Host_snapshot_25->Host_snapshot_26->Host_snapshot_27->Host_snapshot_28->Host_snapshot_29;
+}
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_40 [label="{<f0> storage_40|<f1> disk_snapshot_storage_ident_40|<f2> storage|<f3> /zz/s40|<f4> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Storage_41 [label="{<f0> storage_41|<f1> disk_snapshot_storage_ident_41|<f2> storage|<f3> /zz/s40|<f4> 2005-03-18 09:58:32.000000}" shape=Mrecord];
+Storage_42 [label="{<f0> storage_42|<f1> disk_snapshot_storage_ident_42|<f2> storage|<f3> /zz/s42|<f4> 2005-03-18 09:58:33.000000}" shape=Mrecord];
+Storage_43 [label="{<f0> storage_43|<f1> disk_snapshot_storage_ident_43|<f2> storage|<f3> /zz/s42|<f4> 2005-03-18 09:58:34.000000}" shape=Mrecord];
+Storage_44 [label="{<f0> storage_44|<f1> disk_snapshot_storage_ident_44|<f2> storage|<f3> /zz/s44|<f4> 2005-03-18 09:58:35.000000|<f5> 2005-03-18 09:58:36.000000}" shape=Mrecord];
+Storage_40 -> Storage_41;Storage_41 -> Storage_42;Storage_42 -> Storage_43;Storage_42 -> Storage_44;}
+Locator_25 [label="<f0> L_25" shape=Mrecord];
+Locator_26 [label="<f0> L_26" shape=Mrecord];
+Locator_27 [label="<f0> L_27" shape=Mrecord];
+Locator_28 [label="<f0> L_28" shape=Mrecord];
+Locator_29 [label="<f0> L_29" shape=Mrecord];
+Locator_25 -> Host_snapshot_25;
+Locator_26 -> Host_snapshot_26;
+Locator_27 -> Host_snapshot_27;
+Locator_28 -> Host_snapshot_28;
+Locator_29 -> Host_snapshot_29;
+Locator_25 -> Storage_40;
+Locator_26 -> Storage_41;
+Locator_27 -> Storage_42;
+Locator_28 -> Storage_43;
+Locator_29 -> Storage_44;
+}

@@ -1,0 +1,34 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+subgraph cluster_host1{
+        label = "host1"
+        node[shape=record]
+        Host_snapshot_1 [label="{<f0> host_snapshot_1|<f1> host_snapshot_ident_1|<f2> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+Host_snapshot_2 [label="{<f0> host_snapshot_2|<f1> host_snapshot_ident_2|<f2> 2005-03-18 10:00:50.000000}" shape=Mrecord];
+Host_snapshot_3 [label="{<f0> host_snapshot_3|<f1> host_snapshot_ident_3|<f2> 2005-03-18 10:03:20.000000|<f3> 2005-03-18 10:08:30.000000}" shape=Mrecord];
+Host_snapshot_1->Host_snapshot_2->Host_snapshot_3;
+}
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_7 [label="{<f0> storage_7|<f1> disk_snapshot_storage_ident_7|<f2> storage|<f3> /zz/s7|<f4> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+Storage_8 [label="{<f0> storage_8|<f1> disk_snapshot_storage_ident_8|<f2> storage|<f3> /zz/s8|<f4> 2005-03-18 10:00:00.000000|<f5> 2005-03-18 10:01:40.000000}" shape=Mrecord];
+Storage_9 [label="{<f0> storage_9|<f1> disk_snapshot_storage_ident_9|<f2> storage|<f3> /zz/s9|<f4> 2005-03-18 10:03:20.000000}" shape=Mrecord];
+Storage_10 [label="{<f0> storage_10|<f1> disk_snapshot_storage_ident_10|<f2> storage|<f3> /zz/s10|<f4> 2005-03-18 10:03:20.000000|<f5> 2005-03-18 10:05:00.000000}" shape=Mrecord];
+Storage_11 [label="{<f0> storage_11|<f1> disk_snapshot_storage_ident_11|<f2> storage|<f3> /zz/s11|<f4> 2005-03-18 10:05:00.000000|<f5> 2005-03-18 10:06:40.000000}" shape=Mrecord];
+Storage_12 [label="{<f0> storage_12|<f1> disk_snapshot_storage_ident_12|<f2> storage|<f3> /zz/s12|<f4> 2005-03-18 10:07:30.000000|<f5> 2005-03-18 10:08:20.000000}" shape=Mrecord];
+Storage_7 -> Storage_8;Storage_8 -> Storage_9;Storage_9 -> Storage_10;Storage_10 -> Storage_11;Storage_11 -> Storage_12;}
+Locator_1 [label="<f0> L_1" shape=Mrecord];
+Locator_2 [label="<f0> L_2" shape=Mrecord];
+Locator_3 [label="<f0> L_3" shape=Mrecord];
+Locator_1 -> Host_snapshot_1;
+Locator_2 -> Host_snapshot_2;
+Locator_3 -> Host_snapshot_3;
+Locator_1 -> Storage_7;
+Locator_2 -> Storage_8;
+Locator_3 -> Storage_9;
+Locator_3 -> Storage_10;
+Locator_3 -> Storage_11;
+Locator_3 -> Storage_12;
+}

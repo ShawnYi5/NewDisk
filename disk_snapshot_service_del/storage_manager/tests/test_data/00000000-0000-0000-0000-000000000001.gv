@@ -1,0 +1,13 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_1 [label="{<f0> storage_1|<f1> disk_snapshot_storage_ident_1|<f2> recycling|<f3> /xx/yy2|<f4> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+Storage_2 [label="{<f0> storage_2|<f1> disk_snapshot_storage_ident_2|<f2> recycling|<f3> /xx/yy2|<f4> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+Storage_3 [label="{<f0> storage_3|<f1> disk_snapshot_storage_ident_3|<f2> recycling|<f3> /xx/yy3|<f4> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+Storage_4 [label="{<f0> storage_4|<f1> disk_snapshot_storage_ident_4|<f2> recycling|<f3> /xx/yy5|<f4> 2005-03-18 09:58:31.111110}" shape=Mrecord];
+}
+}

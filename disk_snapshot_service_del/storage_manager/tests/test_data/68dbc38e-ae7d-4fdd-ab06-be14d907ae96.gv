@@ -1,0 +1,34 @@
+digraph structs{
+rankdir=TB
+node[shape=record]
+subgraph cluster_host29{
+        label = "host29"
+        node[shape=record]
+        Host_snapshot_78 [label="{<f0> host_snapshot_78|<f1> host_snapshot_ident_78|<f2> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Host_snapshot_79 [label="{<f0> host_snapshot_79|<f1> host_snapshot_ident_79|<f2> 2005-03-18 09:58:32.000000|<f3> 2005-03-18 09:58:33.000000}" shape=Mrecord];
+Host_snapshot_82 [label="{<f0> host_snapshot_82|<f1> host_snapshot_ident_82|<f2> 2005-03-18 09:58:34.000000|<f3> 2005-03-18 09:58:37.000000}" shape=Mrecord];
+Host_snapshot_78->Host_snapshot_79->Host_snapshot_82;
+}
+subgraph cluster_storage{
+            label = "disk_snapshot_storage"
+            node[shape=record]
+            Storage_91 [label="{<f0> storage_91|<f1> host_snapshot_storage_ident_91|<f2> storage|<f3> /zz/s91|<f4> 2005-03-18 09:58:31.000000}" shape=Mrecord];
+Storage_92 [label="{<f0> storage_92|<f1> host_snapshot_storage_ident_92|<f2> creating|<f3> /zz/s92|<f4> 2005-03-18 09:58:32.000000|<f5> 2005-03-18 09:58:33.000000}" shape=Mrecord];
+Storage_95 [label="{<f0> storage_95|<f1> host_snapshot_storage_ident_95|<f2> storage|<f3> /zz/s95|<f4> 2005-03-18 09:58:34.000000}" shape=Mrecord];
+Storage_96 [label="{<f0> storage_96|<f1> host_snapshot_storage_ident_96|<f2> storage|<f3> /zz/s95|<f4> 2005-03-18 09:58:35.000000}" shape=Mrecord];
+Storage_97 [label="{<f0> storage_97|<f1> host_snapshot_storage_ident_97|<f2> storage|<f3> /zz/s97|<f4> 2005-03-18 09:58:36.000000}" shape=Mrecord];
+Storage_98 [label="{<f0> storage_98|<f1> host_snapshot_storage_ident_98|<f2> creating|<f3> /zz/s98|<f4> 2005-03-18 09:58:37.000000}" shape=Mrecord];
+Storage_91 -> Storage_92;Storage_92 -> Storage_95;Storage_95 -> Storage_96;Storage_96 -> Storage_97;Storage_97 -> Storage_98;}
+Locator_82 [label="<f0> L_82" shape=Mrecord];
+Locator_78 [label="<f0> L_78" shape=Mrecord];
+Locator_79 [label="<f0> L_79" shape=Mrecord];
+Locator_82 -> Host_snapshot_82;
+Locator_78 -> Host_snapshot_78;
+Locator_79 -> Host_snapshot_79;
+Locator_78 -> Storage_91;
+Locator_79 -> Storage_92;
+Locator_82 -> Storage_95;
+Locator_82 -> Storage_96;
+Locator_82 -> Storage_97;
+Locator_82 -> Storage_98;
+}
